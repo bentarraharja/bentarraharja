@@ -22,4 +22,4 @@ I am graduate bachelor of computer science with experience as backend developer.
 ## 📊 GitHub Stats :
 | ![Github stats](https://github-readme-stats.vercel.app/api?username=bentarraharja&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bentarraharja&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bentarraharja&show_icons=true&locale=en&layout=compact&theme=tokyonight) | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=bentarraharja&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false") | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) |
